@@ -1,0 +1,3 @@
+Podemos ver a situação dos arquivos no repositório Git com o
+comando:
+git status
