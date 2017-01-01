@@ -1,3 +1,4 @@
 Podemos ver a situação dos arquivos no repositório Git com o
 comando:
 git status
+"Hasta la vista, baby." (Exterminador do Futuro 2)
